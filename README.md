@@ -1,6 +1,6 @@
 # COVID-Data-Exploration-using-SQL
 
-In this project, I have analyzed the data for COVID Deaths and Vaccinations using SQL.
+Analysis of data for COVID Deaths and Vaccinations using SQL.
 
 Datasets can be found at : https://ourworldindata.org/covid-deaths
 
