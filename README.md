@@ -10,9 +10,15 @@ Goal of this project:
 To showcase my skills related to:
 
 1.Joins
+
 2.CTE's
+
 3.Temp Tables
+
 4.Windows Functions
+
 5.Aggregate Functions
+
 6.Creating Views
+
 7.Converting Data Types
